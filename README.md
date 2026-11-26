@@ -1,8 +1,8 @@
 # The Funniest Honest Appliance Error
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
-[![make.fun](https://img.shields.io/badge/make.fun-entry-blue)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
-[![make.fun](https://img.shields.io/badge/make.fun-%242%20prize-green)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![make.fun · u-xvader-the-funniest-honest-appliance-error-adec4450](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![rank](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/mochhidayah/u-xvader-the-funniest-honest-appliance-error-adec4450/rank.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![reward](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/mochhidayah/u-xvader-the-funniest-honest-appliance-error-adec4450/reward.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
 
 One line, at most 200 characters: the funniest honest error message an
 appliance could show. This entry is a fridge reporting its own failure
