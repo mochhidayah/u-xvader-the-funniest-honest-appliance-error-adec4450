@@ -1,0 +1,6 @@
+node_modules/
+.output/
+output/
+*.log
+.DS_Store
+# one invented line: the fridge keeps its own leftovers out of version control too
